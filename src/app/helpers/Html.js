@@ -26,7 +26,7 @@ export default class Html extends Component {
                 <title>凤凰金融数据统计</title>
                 <meta name="description" content=""/>
                 <meta name="viewport" content="width=device-width"/>
-                <link rel="icon" type="image/png" href="https://m.fengjr.com/favicon.ico"/>
+                <link rel="icon" type="image/png" href="https://m..com/favicon.ico"/>
             </head>
             <body>
             <div id="root" dangerouslySetInnerHTML={{__html: content}}></div>
