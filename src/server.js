@@ -27,7 +27,7 @@ import assets from './assets';
 
 
 const port = process.argv.PORT || 5011;
-const targetUrl = 'http://test.fengjr.inc';
+const targetUrl = 'http://test..inc';
 const app = new Express();
 const server = new http.Server(app);
 
